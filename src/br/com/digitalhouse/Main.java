@@ -1,5 +1,4 @@
 package br.com.digitalhouse;
 
-public class Livro {
-
+public class Main {
 }
