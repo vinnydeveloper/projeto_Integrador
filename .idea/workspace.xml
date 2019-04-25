@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25738a5c-0158-4af9-bb1f-9993112cc787" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/digitalhouse/Livraria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/digitalhouse/Menssagens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto_Integrador.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto_Integrador.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digitalhouse/CadastroLivro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/digitalhouse/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digitalhouse/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projeto_Integrador/br/com/digitalhouse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projeto_Integrador/br/com/digitalhouse/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/digitalhouse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/digitalhouse/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="47" column="72" selection-start-line="47" selection-start-column="72" selection-end-line="47" selection-end-column="72" />
+            <state relative-caret-position="1357">
+              <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -222,16 +216,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556144818441</updated>
-      <workItem from="1556144822583" duration="7863000" />
+      <workItem from="1556144822583" duration="8853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7863000" />
+    <option name="totallyTimeSpent" value="8853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -248,7 +241,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991454" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.94871795" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/digitalhouse/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="47" column="72" selection-start-line="47" selection-start-column="72" selection-end-line="47" selection-end-column="72" />
+        <state relative-caret-position="1357">
+          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
