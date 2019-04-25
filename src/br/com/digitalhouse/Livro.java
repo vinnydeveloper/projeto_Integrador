@@ -4,12 +4,12 @@ public class Livro {
     private int codigo;
     private String titulo;
     private String autor;
-    private String anoLancemento;
+    private int anoLancemento;
     private String ISBN;
     private int quantidade;
     private double preco;
 
-    public Livro(int codigo, String titulo, String autor, String anoLancemento, String ISBN, int quantidade, double preco) {
+    public Livro(int codigo, String titulo, String autor, int anoLancemento, String ISBN, int quantidade, double preco) {
         this.codigo = codigo;
         this.titulo = titulo;
         this.autor = autor;
@@ -44,11 +44,11 @@ public class Livro {
         this.autor = autor;
     }
 
-    public String getAnoLancemento() {
+    public int getAnoLancemento() {
         return anoLancemento;
     }
 
-    public void setAnoLancemento(String anoLancemento) {
+    public void setAnoLancemento(int anoLancemento) {
         this.anoLancemento = anoLancemento;
     }
 
@@ -74,5 +74,18 @@ public class Livro {
 
     public void setPreco(double preco) {
         this.preco = preco;
+    }
+
+    @Override
+    public String toString() {
+        return "Livro{" +
+                "codigo=" + codigo +
+                ", titulo='" + titulo + '\'' +
+                ", autor='" + autor + '\'' +
+                ", anoLancemento=" + anoLancemento +
+                ", ISBN='" + ISBN + '\'' +
+                ", quantidade=" + quantidade +
+                ", preco=" + preco +
+                '}';
     }
 }
